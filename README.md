@@ -67,7 +67,7 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" />
+<img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" alt="Rust" width="65" height="65" />
 <br>Rust
 </td>
 <td align="center" width="96">
@@ -160,25 +160,30 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║   📱 MOBILE DEVELOPMENT                                                ║
-║   ██████████████████████████████████████████████████████████  100%    ║
-║   Native Android with Kotlin • Cross-platform with Flutter            ║
-║                                                                        ║
-║   🔐 SECURITY & VPN APPLICATIONS                                       ║
-║   ██████████████████████████████████████████████████████████  100%    ║
-║   SSTP • OpenVPN • WireGuard • Xray-Core • Encryption Protocols       ║
-║                                                                        ║
-║   🦀 SYSTEMS PROGRAMMING                                               ║
-║   █████████████████████████████████████████████████░░░░░░░░   85%     ║
-║   Rust • Zig • Tauri • Slint • Performance Optimization               ║
-║                                                                        ║
-║   🐍 AUTOMATION & SCRIPTING                                            ║
-║   ██████████████████████████████████████░░░░░░░░░░░░░░░░░░░   75%     ║
-║   Python • Task Automation • Data Processing                          ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   📱  MOBILE DEVELOPMENT                                                  ║
+║       ├── Kotlin (Native Android)                                         ║
+║       ├── Flutter & Dart (Cross-platform)                                 ║
+║       └── Android SDK & Jetpack Compose                                   ║
+║                                                                           ║
+║   🔐  SECURITY & VPN                                                      ║
+║       ├── SSTP • OpenVPN • WireGuard                                      ║
+║       ├── Xray-Core • V2Ray                                               ║
+║       └── Encryption Protocols & Network Security                         ║
+║                                                                           ║
+║   🦀  SYSTEMS PROGRAMMING                                                 ║
+║       ├── Rust (High-performance & Memory-safe)                           ║
+║       ├── Zig (Low-level systems)                                         ║
+║       ├── Tauri (Desktop Apps)                                            ║
+║       └── Slint (Native UI)                                               ║
+║                                                                           ║
+║   🐍  AUTOMATION & SCRIPTING                                              ║
+║       ├── Python                                                          ║
+║       ├── Task Automation                                                 ║
+║       └── Data Processing                                                 ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
