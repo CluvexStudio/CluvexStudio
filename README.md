@@ -17,7 +17,7 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
 ## 🧑‍💻 About Me
 
@@ -29,7 +29,8 @@ expertise:
   - Mobile Development (Android/iOS)
   - Cross-Platform Apps (Flutter)
   - Native Android (Kotlin)
-  - Systems Programming (Rust)
+  - Systems Programming (Rust, Zig)
+  - Desktop Apps (Tauri, Slint)
   - Automation (Python)
 hobbies: ["Coding", "Security Research", "Open Source"]
 fun_fact: "I turn coffee into secure code ☕🔐"
@@ -45,10 +46,10 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <div align="center">
 
 ### 🚀 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,python,androidstudio,idea&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,zig,python,tauri&theme=dark&perline=7" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,firebase,gradle,linux,docker,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,firebase,gradle,linux,docker,vscode&theme=dark&perline=9" />
 
 </div>
 
@@ -58,7 +59,7 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65" />
 <br>Kotlin
 </td>
 <td align="center" width="96">
@@ -66,16 +67,20 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-<br>REST API
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" />
+<br>Rust
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br>GitHub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="65" height="65" />
+<br>Zig
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br>Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="65" height="65" />
+<br>Tauri
 </td>
 </tr>
 </table>
@@ -155,25 +160,25 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <div align="center">
 
 ```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   📱 MOBILE DEVELOPMENT                                            │
-│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  100%      │
-│   Native Android with Kotlin • Cross-platform with Flutter        │
-│                                                                    │
-│   🔐 SECURITY & VPN APPLICATIONS                                   │
-│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  100%      │
-│   SSTP • OpenVPN • WireGuard • Encryption Protocols               │
-│                                                                    │
-│   🦀 SYSTEMS PROGRAMMING                                           │
-│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  85%               │
-│   Rust • Performance Optimization • Low-level Code                │
-│                                                                    │
-│   🐍 AUTOMATION & SCRIPTING                                        │
-│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  75%                      │
-│   Python • Task Automation • Data Processing                      │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║   📱 MOBILE DEVELOPMENT                                                ║
+║   ██████████████████████████████████████████████████████████  100%    ║
+║   Native Android with Kotlin • Cross-platform with Flutter            ║
+║                                                                        ║
+║   🔐 SECURITY & VPN APPLICATIONS                                       ║
+║   ██████████████████████████████████████████████████████████  100%    ║
+║   SSTP • OpenVPN • WireGuard • Xray-Core • Encryption Protocols       ║
+║                                                                        ║
+║   🦀 SYSTEMS PROGRAMMING                                               ║
+║   █████████████████████████████████████████████████░░░░░░░░   85%     ║
+║   Rust • Zig • Tauri • Slint • Performance Optimization               ║
+║                                                                        ║
+║   🐍 AUTOMATION & SCRIPTING                                            ║
+║   ██████████████████████████████████████░░░░░░░░░░░░░░░░░░░   75%     ║
+║   Python • Task Automation • Data Processing                          ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
