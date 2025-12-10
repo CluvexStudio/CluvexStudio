@@ -28,6 +28,7 @@ current_focus: Building Secure VPN & Streaming Apps
 expertise:
   - Mobile Development (Android/iOS)
   - Cross-Platform Apps (Flutter)
+  - Web Development (React, Next.js)
   - Native Android (Kotlin)
   - Systems Programming (Rust, Zig)
   - Desktop Apps (Tauri, Slint)
@@ -47,6 +48,9 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 
 ### 🚀 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,zig,python,tauri&theme=dark&perline=7" />
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark&perline=7" />
 
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,firebase,gradle,linux,docker,vscode&theme=dark&perline=9" />
@@ -81,6 +85,32 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="65" height="65" />
 <br>Tauri
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="65" height="65" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+<br>HTML5
 </td>
 </tr>
 </table>
@@ -177,6 +207,11 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 ║       ├── Zig (Low-level systems)                                         ║
 ║       ├── Tauri (Desktop Apps)                                            ║
 ║       └── Slint (Native UI)                                               ║
+║                                                                           ║
+║   🌐  WEB DEVELOPMENT                                                     ║
+║       ├── React & Next.js                                                 ║
+║       ├── TypeScript & JavaScript                                         ║
+║       └── Tailwind CSS & Modern UI                                        ║
 ║                                                                           ║
 ║   🐍  AUTOMATION & SCRIPTING                                              ║
 ║       ├── Python                                                          ║
