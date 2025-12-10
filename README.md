@@ -187,23 +187,12 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 
 <div align="center">
 
-```
-                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀
-                    ⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀
-                    ⠀⢀⣾⣿⣿⠟⠉⠀⠀⠀⠀⠉⠻⣿⣿⣿⣿⠟⠉⠀⠀⠀⠀⠉⠻⣿⣿⣷⡀⠀
-                    ⠀⣾⣿⣿⠃⠀⠀⣠⣶⣶⣄⠀⠀⠘⣿⣿⠃⠀⠀⣠⣶⣶⣄⠀⠀⠘⣿⣿⣷⠀
-                    ⢸⣿⣿⡇⠀⠀⢸⣿⣿⣿⣿⠀⠀⠀⣿⣿⠀⠀⠀⣿⣿⣿⣿⡇⠀⠀⢸⣿⣿⡇
-                    ⢸⣿⣿⣿⣄⠀⠀⠻⠿⠿⠋⠀⣀⣴⣿⣿⣦⣀⠀⠙⠿⠿⠟⠀⠀⣠⣿⣿⣿⡇
-                    ⠀⢿⣿⣿⣿⣿⣶⣤⣤⣤⣶⣿⣿⣿⡿⢿⣿⣿⣿⣶⣤⣤⣤⣶⣿⣿⣿⣿⡿⠀
-                    ⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀
-                    ⠀⠀⠀⠀⠙⠛⠛⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠛⠛⠋⠀⠀⠀⠀
-                    
-                              Thanks for visiting! 
-                        ⭐ Star my repos if you like them ⭐
-```
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer&reversal=true&animation=twinkling" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer&reversal=true"/>
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+amazing+%F0%9F%9A%80;%E2%AD%90+Star+my+repos+if+you+like+them+%E2%AD%90)](https://github.com/CluvexStudio)
 
 </div>
