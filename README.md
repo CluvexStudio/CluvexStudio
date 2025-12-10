@@ -17,8 +17,6 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
-
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -36,8 +34,6 @@ expertise:
 hobbies: ["Coding", "Security Research", "Open Source"]
 fun_fact: "I turn coffee into secure code ☕🔐"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -118,35 +114,6 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 
 ---
 
-<!-- Featured Projects -->
-## 🏆 Flagship Projects
-
-<div align="center">
-
-<a href="https://github.com/CluvexStudio/ZedSecure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CluvexStudio&repo=ZedSecure&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F8D866" />
-</a>
-<a href="https://github.com/CluvexStudio/ZedMovie">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CluvexStudio&repo=ZedMovie&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F8D866" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🔧 Tech | ⭐ Stars |
-|:-----------|:---------------|:--------|:---------|
-| [**🔒 ZedSecure**](https://github.com/CluvexStudio/ZedSecure) | Enterprise-grade VPN with Fluent Design | `Flutter` `Kotlin` | ![Stars](https://img.shields.io/github/stars/CluvexStudio/ZedSecure?style=flat-square&color=yellow) |
-| [**🎬 ZedMovie**](https://github.com/CluvexStudio/ZedMovie) | Feature-rich Movie Streaming App | `Kotlin` `MVVM` | ![Stars](https://img.shields.io/github/stars/CluvexStudio/ZedMovie?style=flat-square&color=yellow) |
-| [**🖥️ ZedMovieDesktop**](https://github.com/CluvexStudio/ZedMovieDesktop) | Cross-platform Desktop Streaming | `Flutter` `Dart` | ![Stars](https://img.shields.io/github/stars/CluvexStudio/ZedMovieDesktop?style=flat-square&color=yellow) |
-| [**🛡️ ZedPass**](https://github.com/CluvexStudio/ZedPass) | Secure SSTP VPN Protocol Client | `Flutter` `Dart` | ![Stars](https://img.shields.io/github/stars/CluvexStudio/ZedPass?style=flat-square&color=yellow) |
-
-</div>
-
----
-
 <!-- GitHub Stats -->
 ## 📊 Performance Metrics
 
@@ -162,13 +129,6 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CluvexStudio&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CluvexStudio&bg_color=0D1117&color=A855F7&line=F8D866&point=FFFFFF&area_color=A855F7&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" />
 </div>
 
 ---
