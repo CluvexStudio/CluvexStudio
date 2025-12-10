@@ -22,17 +22,19 @@
 ```yaml
 name: Cluvex
 location: 🌍 Earth
-current_focus: Building Secure VPN & Streaming Apps
-expertise:
-  - Mobile Development (Android/iOS)
-  - Cross-Platform Apps (Flutter)
-  - Web Development (React, Next.js)
-  - Native Android (Kotlin)
-  - Systems Programming (Rust, Zig)
-  - Desktop Apps (Tauri, Slint)
-  - Automation (Python)
+current_focus:
+  - 🔐 Security & VPN Applications
+  - 📱 Mobile Development (Kotlin, Flutter)
+  - 🌐 Web Development (React, Next.js)
+  - 🦀 Systems Programming (Rust, Zig)
+  - 🖥️ Desktop Apps (Tauri, Slint)
+tech_stack:
+  mobile: [Kotlin, Flutter, Dart, Jetpack Compose]
+  web: [React, Next.js, TypeScript, Tailwind]
+  systems: [Rust, Zig, Tauri, Slint]
+  tools: [Git, Docker, Firebase, Linux]
 hobbies: ["Coding", "Security Research", "Open Source"]
-fun_fact: "I turn coffee into secure code ☕🔐"
+fun_fact: "I mass produce products with mass quality �"
 ```
 
 ---
@@ -185,14 +187,4 @@ fun_fact: "I turn coffee into secure code ☕🔐"
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer&reversal=true&animation=twinkling" width="100%"/>
-
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+amazing+%F0%9F%9A%80;%E2%AD%90+Star+my+repos+if+you+like+them+%E2%AD%90)](https://github.com/CluvexStudio)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
