@@ -30,7 +30,7 @@ current_focus:
   - 🖥️ Desktop Apps (Tauri, Slint)
 tech_stack:
   mobile: [Kotlin, Flutter, Dart, Jetpack Compose]
-  web: [React, Next.js, TypeScript, Tailwind]
+  web: [React, Next.js, JavaScript, TypeScript, Tailwind]
   systems: [Rust, Zig, Tauri, Slint]
   tools: [Git, Docker, Firebase, Linux]
 hobbies: ["Coding", "Security Research", "Open Source"]
@@ -186,3 +186,4 @@ fun_fact: "I mass produce products with mass quality 🚀"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
