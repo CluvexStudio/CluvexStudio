@@ -30,7 +30,7 @@ current_focus:
   - 🖥️ Desktop Apps (Tauri, Slint)
 tech_stack:
   mobile: [Kotlin, Flutter, Dart, Jetpack Compose]
-  web: [React, Next.js, JavaScript, TypeScript, Tailwind]
+  web: [React, Next.js, TypeScript, Tailwind]
   systems: [Rust, Zig, Tauri, Slint]
   tools: [Git, Docker, Firebase, Linux]
 hobbies: ["Coding", "Security Research", "Open Source"]
@@ -44,16 +44,25 @@ fun_fact: "I mass produce products with mass quality 🚀"
 
 <div align="center">
 
-### 🚀 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,zig,python,tauri,wasm&theme=dark&perline=8" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,rust,zig,python,typescript,javascript&theme=dark&perline=8" />
 
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark&perline=7" />
+### 📱 Mobile & Desktop
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,tauri&theme=dark&perline=6" />
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,firebase,gradle,linux,docker,vscode,wasm&theme=dark&perline=10" />
+### 🌐 Web & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,html,css,tailwind&theme=dark&perline=7" />
 <br/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase&theme=dark&perline=6" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,vercel,netlify&theme=dark&perline=6" />
+
+### 🛠️ Tools & Runtime
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,gradle,postman,wasm&theme=dark&perline=7" />
 
 </div>
 
@@ -67,8 +76,8 @@ fun_fact: "I mass produce products with mass quality 🚀"
 <br>Kotlin
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br>Python
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
 </td>
 <td align="center" width="96">
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" alt="Rust" width="65" height="65" />
@@ -79,12 +88,12 @@ fun_fact: "I mass produce products with mass quality 🚀"
 <br>Zig
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
-<br>Flutter
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="65" height="65" />
-<br>Tauri
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
+<br>Flutter
 </td>
 </tr>
 <tr>
@@ -105,15 +114,14 @@ fun_fact: "I mass produce products with mass quality 🚀"
 <br>Tailwind
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br>JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="65" height="65" />
+<br>Tauri
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-<br>HTML5
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
 </td>
 </tr>
-
 </table>
 </div>
 
@@ -186,4 +194,3 @@ fun_fact: "I mass produce products with mass quality 🚀"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
