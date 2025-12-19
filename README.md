@@ -5,26 +5,6 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%F0%9F%94%90+Security+%7C+%F0%9F%93%B1+Mobile+%7C+%F0%9F%96%A5%EF%B8%8F+Desktop;Crafting+Secure+%26+Elegant+Applications" alt="Typing SVG" /></a>
 
-<br/>
-
-<!-- Profile Badges -->
-<a href="https://github.com/CluvexStudio?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/CluvexStudio?style=for-the-badge&logo=person-add&label=Followers&logoColor=white&color=blueviolet" alt="followers"/>
-</a>
-<a href="https://github.com/CluvexStudio">
-  <img src="https://komarev.com/ghpvc/?username=CluvexStudio&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="views"/>
-</a>
-<a href="https://github.com/CluvexStudio?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/CluvexStudio?style=for-the-badge&logo=star&label=Stars&logoColor=white&color=blueviolet" alt="stars"/>
-</a>
-<br/><br/>
-<a href="https://github.com/CluvexStudio">
-  <img src="https://img.shields.io/badge/Open_Source-❤️-blueviolet?style=for-the-badge" alt="open source"/>
-</a>
-<a href="https://github.com/CluvexStudio">
-  <img src="https://img.shields.io/badge/Available_for_Hire-✅-blueviolet?style=for-the-badge" alt="hire"/>
-</a>
-
 </div>
 
 <br/>
@@ -68,8 +48,8 @@ fun_fact: "I mass produce products with mass quality 🚀"
 <br/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui" />
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase&theme=dark&perline=6" />
+### 🗄️ Databases & BaaS
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase,supabase&theme=dark&perline=7" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,vercel,netlify&theme=dark&perline=6" />
