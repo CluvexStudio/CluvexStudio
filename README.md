@@ -2,7 +2,7 @@
 
 <div align="center">
 
- [Channel](https://t.me/CluvexStudio) •  [Contact](https://t.me/Iran5857)
+ https://t.me/CluvexStudio •  https://t.me/Iran5857
 
 </div>
 
