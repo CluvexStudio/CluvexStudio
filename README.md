@@ -34,7 +34,7 @@ tech_stack:
   systems: [Rust, Zig, Tauri, Slint]
   tools: [Git, Docker, Firebase, Linux]
 hobbies: ["Coding", "Security Research", "Open Source"]
-fun_fact: "I mass produce products with mass quality �"
+fun_fact: "I mass produce products with mass quality 🚀"
 ```
 
 ---
@@ -45,10 +45,13 @@ fun_fact: "I mass produce products with mass quality �"
 <div align="center">
 
 ### 🚀 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,zig,python,tauri&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,zig,python,tauri,wasm&theme=dark&perline=8" />
 
 ### 🌐 Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark&perline=7" />
+
+### 🎨 UI Libraries
+<img src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="48" height="48" />
 
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,firebase,gradle,linux,docker,vscode&theme=dark&perline=9" />
@@ -111,6 +114,16 @@ fun_fact: "I mass produce products with mass quality �"
 <br>HTML5
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui" width="65" height="65" />
+<br>shadcn/ui
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="WebAssembly" width="65" height="65" />
+<br>WebAssembly
+</td>
+</tr>
 </table>
 </div>
 
@@ -127,11 +140,6 @@ fun_fact: "I mass produce products with mass quality �"
 </div>
 
 <br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CluvexStudio&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
 
 ---
 
