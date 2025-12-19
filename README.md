@@ -2,8 +2,10 @@
 
 <div align="center">
 
- • Contact: https://t.me/CluvexStudio
- • Channel: https://t.me/Iran5857
+Channel: https://t.me/CluvexStudio
+
+Contact: https://t.me/Iran5857
+
 </div>
 
 <br/>
@@ -145,4 +147,3 @@ fun_fact: "I mass produce products with mass quality 🚀"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
