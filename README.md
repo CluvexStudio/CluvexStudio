@@ -50,11 +50,10 @@ fun_fact: "I mass produce products with mass quality 🚀"
 ### 🌐 Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark&perline=7" />
 
-### 🎨 UI Libraries
-<img src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="48" height="48" />
-
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,firebase,gradle,linux,docker,vscode&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,firebase,gradle,linux,docker,vscode,wasm&theme=dark&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui" />
 
 </div>
 
@@ -114,16 +113,7 @@ fun_fact: "I mass produce products with mass quality 🚀"
 <br>HTML5
 </td>
 </tr>
-<tr>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui" width="65" height="65" />
-<br>shadcn/ui
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="WebAssembly" width="65" height="65" />
-<br>WebAssembly
-</td>
-</tr>
+
 </table>
 </div>
 
