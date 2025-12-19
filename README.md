@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cluvex&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
-  
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%F0%9F%94%90+Security+%7C+%F0%9F%93%B1+Mobile+%7C+%F0%9F%96%A5%EF%B8%8F+Desktop;Crafting+Secure+%26+Elegant+Applications" alt="Typing SVG" /></a>
+
+ [Channel](https://t.me/CluvexStudio) •  [Contact](https://t.me/Iran5857)
 
 </div>
 
