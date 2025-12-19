@@ -8,9 +8,22 @@
 <br/>
 
 <!-- Profile Badges -->
-<img src="https://img.shields.io/github/followers/CluvexStudio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers"/>
-<img src="https://komarev.com/ghpvc/?username=CluvexStudio&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="views"/>
-<img src="https://img.shields.io/github/stars/CluvexStudio?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" alt="stars"/>
+<a href="https://github.com/CluvexStudio?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/CluvexStudio?style=for-the-badge&logo=person-add&label=Followers&logoColor=white&color=blueviolet" alt="followers"/>
+</a>
+<a href="https://github.com/CluvexStudio">
+  <img src="https://komarev.com/ghpvc/?username=CluvexStudio&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="views"/>
+</a>
+<a href="https://github.com/CluvexStudio?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/CluvexStudio?style=for-the-badge&logo=star&label=Stars&logoColor=white&color=blueviolet" alt="stars"/>
+</a>
+<br/><br/>
+<a href="https://github.com/CluvexStudio">
+  <img src="https://img.shields.io/badge/Open_Source-❤️-blueviolet?style=for-the-badge" alt="open source"/>
+</a>
+<a href="https://github.com/CluvexStudio">
+  <img src="https://img.shields.io/badge/Available_for_Hire-✅-blueviolet?style=for-the-badge" alt="hire"/>
+</a>
 
 </div>
 
@@ -148,47 +161,6 @@ fun_fact: "I mass produce products with mass quality 🚀"
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-<!-- Expertise Section -->
-## 🎯 Core Expertise
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   📱  MOBILE DEVELOPMENT                                                  ║
-║       ├── Kotlin (Native Android)                                         ║
-║       ├── Flutter & Dart (Cross-platform)                                 ║
-║       └── Android SDK & Jetpack Compose                                   ║
-║                                                                           ║
-║   🔐  SECURITY & VPN                                                      ║
-║       ├── SSTP • OpenVPN • WireGuard                                      ║
-║       ├── Xray-Core • V2Ray                                               ║
-║       └── Encryption Protocols & Network Security                         ║
-║                                                                           ║
-║   🦀  SYSTEMS PROGRAMMING                                                 ║
-║       ├── Rust (High-performance & Memory-safe)                           ║
-║       ├── Zig (Low-level systems)                                         ║
-║       ├── Tauri (Desktop Apps)                                            ║
-║       └── Slint (Native UI)                                               ║
-║                                                                           ║
-║   🌐  WEB DEVELOPMENT                                                     ║
-║       ├── React & Next.js                                                 ║
-║       ├── TypeScript & JavaScript                                         ║
-║       └── Tailwind CSS & Modern UI                                        ║
-║                                                                           ║
-║   🐍  AUTOMATION & SCRIPTING                                              ║
-║       ├── Python                                                          ║
-║       ├── Task Automation                                                 ║
-║       └── Data Processing                                                 ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
