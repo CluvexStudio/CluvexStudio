@@ -4,7 +4,7 @@
 
 Network & Security Software Developer
 
-[Telegram Channel](https://t.me/CluvexStudio) 
+[Telegram Channel](https://t.me/CluvexStudio) · [Contact](https://t.me/JanfadayehMihan)
 
 </div>
 
@@ -20,7 +20,13 @@ Network and security developer. I design and build VPN cores and firewall evasio
 
 ## Focus
 
-Firewall detection & evasion, network protocol engineering, and VPN core development — building the systems that keep traffic running under restricted networks.
+Firewall detection & evasion, network protocol engineering, and VPN core development — building the systems that keep traffic running under restricted networks. Broader background in network infrastructure and cybersecurity: routing, packet analysis, and hardening systems against real-world attacks.
+
+## Networking & Infrastructure
+
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mikrotik.svg" width="48" height="48" alt="MikroTik" /> <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wireshark.svg" width="48" height="48" alt="Wireshark" />
+
+MikroTik / RouterOS configuration, routing & firewall rules, and traffic analysis with Wireshark.
 
 ## Cloud & DevOps
 
