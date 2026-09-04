@@ -4,7 +4,7 @@
 
 Network & Security Software Developer
 
-[Telegram Channel](https://t.me/CluvexStudio) · [Contact](https://t.me/JanfadayehMihan)
+[Telegram Channel](https://t.me/CluvexStudio)
 
 </div>
 
